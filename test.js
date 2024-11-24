@@ -1,6 +1,6 @@
-console.log("This is a safe line.");
-console.log("This is a safe line.");
-console.log("This is a safe line.");
+console.log("This is a not safe line at all.");
+console.log("This is a not safe line at all.");
+console.log("This is a not safe line at all.");
 
 console.log(process.env.SECRET_KEY);
 
